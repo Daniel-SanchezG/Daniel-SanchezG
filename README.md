@@ -1,7 +1,7 @@
 
 ## **Computational Archaeologist & Research Software Developer**. 
 
-### Exploring ancient complex systems through predictive and semantic modelling, graph analysis, and computational methods — seeking the structural variables behind human adaptation, settlement patterns, and social complexity.
+### Exploring ancient complex systems through predictive and semantic modelling, graph analysis, and computational methods.
 
 ![](https://komarev.com/ghpvc/?username=Daniel-SanchezG&color=yellow)
 
