@@ -1,7 +1,7 @@
 
 ## **Computational Archaeologist & Research Software Developer**. 
 
-### Exploring ancient complex systems through predictive and semantic modelling, graph analysis, and computational methods.
+### I develop computer models to investigate the complexity of prehistoric social systems.
 
 ![](https://komarev.com/ghpvc/?username=Daniel-SanchezG&color=yellow)
 
